@@ -1,5 +1,5 @@
 # emailsignature
-Custom personalized email signature template
+<p>Customized email signature for business template</p>
 
 
 <p>Sample image for reference:
