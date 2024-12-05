@@ -1,6 +1,6 @@
 # emailsignature
 <p>
-  <br>A customizable email signature that can be used as a template.</br>
+  A customizable professional email signature that can be used as a template.
   <br>Created from HTML and CSS.</br>
 </p>
 
