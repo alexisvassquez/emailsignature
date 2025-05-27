@@ -1,10 +1,8 @@
 # emailsignature
 
----
-
 A free professional email signature that can be used as a template that is 100%:
 - **Customizable**
-- **Downloadable code file**
+- **Downloadable**
 - **Personalizable**
   
 Created from *raw HTML and CSS*.
