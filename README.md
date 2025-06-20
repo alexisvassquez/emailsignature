@@ -4,6 +4,7 @@ A free professional email signature that can be used as a template that is 100%:
 - **Customizable**
 - **Downloadable**
 - **Personalizable**
+- **Responsive**
   
 Created from *raw HTML and CSS*.
 
